@@ -62,7 +62,7 @@ namespace DesignPatterns.Maze
         #endregion
 
         #region Строитель (Builder)
-
+        //Director (распорядитель)
         public Maze CreateMazeGame(MazeBuilder builder)
         {
             builder.BuildMaze();

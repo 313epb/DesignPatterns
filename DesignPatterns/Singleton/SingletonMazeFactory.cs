@@ -1,10 +1,11 @@
 ﻿namespace DesignPatterns.Singleton
 {
-    public class SingletonMazeFactory
+    public class SingletonMazeFactory:Singleton
     {
         private SingletonMazeFactory(){}
 
-        public static SingletonMazeFactory Instance()=> new SingletonMazeFactory();
+        public static readonly SingletonMazeFactory _instance= new SingletonMazeFactory();
+
 
     }
 }

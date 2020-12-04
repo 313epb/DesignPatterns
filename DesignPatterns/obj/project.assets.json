@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
-      "projectName": "DesignPatterns",
-      "projectPath": "E:\\Git\\DesignPatterns\\DesignPatterns\\DesignPatterns.csproj",
+      "projectUniqueName": "E:\\Git\\DesignPatterns\\DesignPatterns\\CreationalPatterns.csproj",
+      "projectName": "CreationalPatterns",
+      "projectPath": "E:\\Git\\DesignPatterns\\DesignPatterns\\CreationalPatterns.csproj",
       "packagesPath": "C:\\Users\\Dmitrii_Deriugin\\.nuget\\packages\\",
       "outputPath": "E:\\Git\\DesignPatterns\\DesignPatterns\\obj\\",
       "projectStyle": "PackageReference",
