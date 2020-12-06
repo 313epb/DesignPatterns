@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git\\DesignPatterns\\Structural Patterns\\Structural Patterns.csproj",
-      "projectName": "Structural Patterns",
-      "projectPath": "E:\\Git\\DesignPatterns\\Structural Patterns\\Structural Patterns.csproj",
+      "projectUniqueName": "E:\\Git\\DesignPatterns\\CreationalPatterns\\CreationalPatterns.csproj",
+      "projectName": "CreationalPatterns",
+      "projectPath": "E:\\Git\\DesignPatterns\\CreationalPatterns\\CreationalPatterns.csproj",
       "packagesPath": "C:\\Users\\Dmitrii_Deriugin\\.nuget\\packages\\",
-      "outputPath": "E:\\Git\\DesignPatterns\\Structural Patterns\\obj\\",
+      "outputPath": "E:\\Git\\DesignPatterns\\CreationalPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

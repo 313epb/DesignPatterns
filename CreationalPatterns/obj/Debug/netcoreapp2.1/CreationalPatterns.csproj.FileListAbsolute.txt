@@ -1,0 +1,10 @@
+E:\Git\DesignPatterns\CreationalPatterns\obj\Debug\netcoreapp2.1\CreationalPatterns.csproj.CoreCompileInputs.cache
+E:\Git\DesignPatterns\CreationalPatterns\obj\Debug\netcoreapp2.1\CreationalPatterns.AssemblyInfoInputs.cache
+E:\Git\DesignPatterns\CreationalPatterns\obj\Debug\netcoreapp2.1\CreationalPatterns.AssemblyInfo.cs
+E:\Git\DesignPatterns\CreationalPatterns\bin\Debug\netcoreapp2.1\CreationalPatterns.deps.json
+E:\Git\DesignPatterns\CreationalPatterns\bin\Debug\netcoreapp2.1\CreationalPatterns.runtimeconfig.json
+E:\Git\DesignPatterns\CreationalPatterns\bin\Debug\netcoreapp2.1\CreationalPatterns.runtimeconfig.dev.json
+E:\Git\DesignPatterns\CreationalPatterns\bin\Debug\netcoreapp2.1\CreationalPatterns.dll
+E:\Git\DesignPatterns\CreationalPatterns\bin\Debug\netcoreapp2.1\CreationalPatterns.pdb
+E:\Git\DesignPatterns\CreationalPatterns\obj\Debug\netcoreapp2.1\CreationalPatterns.dll
+E:\Git\DesignPatterns\CreationalPatterns\obj\Debug\netcoreapp2.1\CreationalPatterns.pdb

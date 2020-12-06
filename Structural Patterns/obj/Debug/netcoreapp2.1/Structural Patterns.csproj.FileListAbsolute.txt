@@ -1,0 +1,10 @@
+E:\Git\DesignPatterns\Structural Patterns\bin\Debug\netcoreapp2.1\Structural Patterns.deps.json
+E:\Git\DesignPatterns\Structural Patterns\bin\Debug\netcoreapp2.1\Structural Patterns.runtimeconfig.json
+E:\Git\DesignPatterns\Structural Patterns\bin\Debug\netcoreapp2.1\Structural Patterns.runtimeconfig.dev.json
+E:\Git\DesignPatterns\Structural Patterns\bin\Debug\netcoreapp2.1\Structural Patterns.dll
+E:\Git\DesignPatterns\Structural Patterns\bin\Debug\netcoreapp2.1\Structural Patterns.pdb
+E:\Git\DesignPatterns\Structural Patterns\obj\Debug\netcoreapp2.1\Structural Patterns.csproj.CoreCompileInputs.cache
+E:\Git\DesignPatterns\Structural Patterns\obj\Debug\netcoreapp2.1\Structural Patterns.AssemblyInfoInputs.cache
+E:\Git\DesignPatterns\Structural Patterns\obj\Debug\netcoreapp2.1\Structural Patterns.AssemblyInfo.cs
+E:\Git\DesignPatterns\Structural Patterns\obj\Debug\netcoreapp2.1\Structural Patterns.dll
+E:\Git\DesignPatterns\Structural Patterns\obj\Debug\netcoreapp2.1\Structural Patterns.pdb
