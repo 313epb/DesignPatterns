@@ -46,6 +46,6 @@ namespace DesignPatterns
 
             //Синглтон
             var mazeFactory = Singleton.Singleton.Lookup("SingletonMazeFactory");
-        }
+        }+
     }
 }
