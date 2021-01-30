@@ -1,6 +1,6 @@
 ﻿namespace Structural_Patterns.Adapter.SubClasses
 {
-    public class Manipulator
+    public class Element
     {
         
     }

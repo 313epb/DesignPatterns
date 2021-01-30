@@ -27,8 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\ECSC00104DC2.epam.com\\nuget": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus-ci.corp.dev.vtb/repository/tb-nuget": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
